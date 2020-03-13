@@ -1,9 +1,23 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 025563B8
-/// @DnDArgument : "code" "image_xscale = -1;$(13_10)deathCounter = 0;"
+/// @DnDArgument : "code" "image_xscale = -1;$(13_10)deathCounter = 0;$(13_10)//pick a random seed for less predictable number generation$(13_10)randomize();$(13_10)$(13_10)//initialize player stats$(13_10)playerLevel = 1;$(13_10)$(13_10)playerMaxHealth = 75 + (playerLevel * 25);$(13_10)playerHealth = playerMaxHealth;$(13_10)$(13_10)playerAttack = 5;$(13_10)playerDefense = 5;$(13_10)$(13_10)playerCurrentEXP = 0;$(13_10)playerMaxEXP = 100;$(13_10)$(13_10)"
 image_xscale = -1;
 deathCounter = 0;
+//pick a random seed for less predictable number generation
+randomize();
+
+//initialize player stats
+playerLevel = 1;
+
+playerMaxHealth = 75 + (playerLevel * 25);
+playerHealth = playerMaxHealth;
+
+playerAttack = 5;
+playerDefense = 5;
+
+playerCurrentEXP = 0;
+playerMaxEXP = 100;
 
 /// @DnDAction : YoYo Games.Paths.Start_Path
 /// @DnDVersion : 1.1

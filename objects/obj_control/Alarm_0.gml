@@ -10,6 +10,6 @@ instance_create_layer(640, 480, "Instances", obj_Trex);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4E1102EC
-/// @DnDArgument : "code" "if (global.paused) exit;$(13_10)alarm[0] = 1200;"
-if (global.paused) exit;
+/// @DnDArgument : "code" "$(13_10)alarm[0] = 1200;"
+
 alarm[0] = 1200;
