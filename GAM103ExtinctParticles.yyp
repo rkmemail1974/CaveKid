@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "e4607014-74b3-4dba-97c6-68e60c4587e1",
+            "Value": {
+                "id": "c34bdc07-2c37-4baf-9b74-9f3513591c9c",
+                "resourcePath": "sprites\/spr_start_screen_bg\/spr_start_screen_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "edefd54c-0423-4d12-9925-e3c055b7c0f3",
             "Value": {
                 "id": "19303992-0322-47e0-b94f-0cf45881f41a",
