@@ -30,8 +30,3 @@ walkable[7,6] = false;
 walkable[7,7] = false;
 */
 /**/
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 3915773C
-alarm_set(0, 30);
