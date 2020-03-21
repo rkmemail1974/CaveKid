@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "33dc4c8e-7fb6-41b4-83b5-c64199d397ad",
+            "Value": {
+                "id": "28a227a0-ffe6-410c-8710-f0105294f488",
+                "resourcePath": "scripts\/instance_nth_nearest\/instance_nth_nearest.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4185dafb-15c0-4073-9da5-c2e07a92df36",
             "Value": {
                 "id": "5334b673-7630-4c91-8899-d4362a07c37c",
@@ -519,14 +527,6 @@
             }
         },
         {
-            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
-            "Value": {
-                "id": "7f5a2632-8148-4987-aa9f-88e7c1fa0e15",
-                "resourcePath": "options\\windows\\options_windows.yy",
-                "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
             "Key": "cdc8e8c6-fde8-47e2-b3a7-075b1b2f7c5b",
             "Value": {
                 "id": "7e4d9de2-255c-42aa-b39b-8d465ffc2722",
@@ -655,6 +655,14 @@
             }
         },
         {
+            "Key": "fd2eafda-53ee-4d53-9922-4e599115ff5a",
+            "Value": {
+                "id": "71ae692c-075e-468b-9c63-827efa9cd2d5",
+                "resourcePath": "objects\/obj_dinoHead\/obj_dinoHead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fecc4272-35a4-4f84-82f7-d9a67d87140e",
             "Value": {
                 "id": "cb302570-9b61-4bde-8f8c-7084d0d07ee4",
@@ -677,6 +685,14 @@
                 "resourcePath": "views\/ff0c220d-af88-49eb-89c4-c2649ab73c2c.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ff202e24-0062-466b-bf40-e8ecd3d99ec9",
+            "Value": {
+                "id": "19ea7c1a-9d19-41cd-9ac8-02b7429b1fe3",
+                "resourcePath": "sprites\/foodForTower\/foodForTower.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
@@ -688,7 +704,8 @@
         "52a6c3ed-04b1-45aa-9faf-314f2a48a393",
         "751f1047-595d-4c4b-8d9d-a14b92bf57e5",
         "d1af9ffe-315a-4905-8ecc-5c32aa036634",
-        "cdea8d7d-7c74-40e4-9dbc-c7c43ac31f7e"
+        "cdea8d7d-7c74-40e4-9dbc-c7c43ac31f7e",
+        "33dc4c8e-7fb6-41b4-83b5-c64199d397ad"
     ],
     "tutorial": ""
 }
